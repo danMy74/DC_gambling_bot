@@ -1,7 +1,7 @@
 # DC_gambling_bot
 This ia a little gambling bot for Discord
 
-The Bot is in progress and has only a few features
+THE BOT IS IN PROGRESS AND HAS ONLY A FEW FEATURES!
 
 Instructions:
 1. Put you Discord Bot Token in the data.env file.
