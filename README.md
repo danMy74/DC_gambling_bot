@@ -4,9 +4,9 @@ This ia a little gambling bot for Discord
 THE BOT IS IN PROGRESS AND HAS ONLY A FEW FEATURES!
 
 Instructions:
-1. Put you Discord Bot Token in the data.env file.
+1. Put your Discord-bot-token in the data.env file.
 2. Add the admins and the startmoney in the Startup.py file.
-3. Invite the Bot to your Server
+3. Invite the bot to your Server
 4. Start the Startup.py file.
 
 Infos:
