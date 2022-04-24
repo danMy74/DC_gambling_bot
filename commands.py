@@ -43,7 +43,7 @@ def start():
                 await message.channel.send(profile_picture.profilep(message.author.id, message.author.avatar_url))
 
             if message.content.startswith("!invite"):
-                await message.channel.send("https://discord.com/oauth2/authorize?client_id=947209235811418162&permissions=542575471680&scope=bot")
+                await message.channel.send("INSERT INVITE LINK HERE")
 
             if message.content.startswith("!blackjack "):
                 await message.channel.send(blackjeck.black_jack(message.content[11:]), message.author.id)
