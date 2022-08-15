@@ -5,10 +5,10 @@ from configparser import ConfigParser
 config_object = ConfigParser()
 
 config_object["admins"] = {
-    "admin1": "Danny3000®#3854",
-    "admin2": "!!!!Horizon_gaming!!!!#2245",
-    "admin3": "MyGame TV#5403",
-    "admin4": "dexder123#8153"
+    "admin1": "ADMIN1",
+    "admin2": "ADMIN2",
+    "admin3": "ADMIN3",
+    "admin4": "ADMIIN4"
 }
 
 config_object["values"] = {
